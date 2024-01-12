@@ -1,5 +1,7 @@
 # Blackjack Game
 
+https://the-blackjack-game-c4yzoksxzpaymdhkv5tbge.streamlit.app/
+
 Welcome to the Blackjack Game! This is a simple text-based implementation of the classic Blackjack card game built using Streamlit.
 
 ![Blackjack Logo](https://github.com/Gorachand22/The-BlackJack-Game/blob/main/images/logo.png)
